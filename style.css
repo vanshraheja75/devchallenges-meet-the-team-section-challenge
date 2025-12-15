@@ -157,8 +157,11 @@ img{
         grid-row: 7/8;
         grid-column: 1/13;
     }
-    .box1,.box4{
+    .box4{
         min-height: 381px;
+    }
+    .box1 p{
+        margin-bottom: 36px;
     }
 }
 

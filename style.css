@@ -35,7 +35,7 @@ body {
     border-radius: 32px;
     overflow: hidden;
     display: grid;
-    max-width: 1200px;
+    max-width: 1100px;
     grid-template-columns: repeat(12,1fr);
     align-items: stretch;
 }
@@ -123,7 +123,7 @@ img{
     content: "";
     position: absolute;
     inset: 0;
-    background: url("resources/Gradient.svg") bottom/cover no-repeat;
+    background: url("resources/Gradient.svg") bottom no-repeat;
     z-index: 10;
 }
 
